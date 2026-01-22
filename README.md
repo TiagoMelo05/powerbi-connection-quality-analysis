@@ -4,6 +4,8 @@
 This project analyzes service quality indicators from a set of devices connected to the network via Ethernet and/or WiFi.
 The objective is to compare the different connection states in order to determine which routing option delivers the best performance and should be implemented as the default configuration.
 
+![Dashboard Overview](images/dashboard_overview.png)
+
 ## Dataset
 - Time period: July 17 to July 30
 - Metrics: Errors, Reboots, RSSI, Connection Type
